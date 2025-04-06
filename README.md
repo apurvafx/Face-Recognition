@@ -37,7 +37,8 @@ pip install opencv-python matplotlib
 3. Run the script using Python:
 
 ```bash
-python face_detection.py```
+python face_detection.py
+```
 
 4. The program will activate your webcam and display a live video feed with detected faces highlighted by green rectangles.
 5. Press any key in the matplotlib plot window to terminate the program.
