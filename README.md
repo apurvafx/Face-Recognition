@@ -14,14 +14,19 @@ This project demonstrates a real-time face detection system using Python, OpenCV
 
 ## Requirements
 
-Make sure you have the following installed:
-
 - Python 3.x
 - OpenCV (`cv2`)
 - Matplotlib
 
-You can install the required libraries using pip:
-```pip install opencv-python matplotlib```
+---
+
+## Installation
+
+You can install the required dependencies using:
+
+```bash
+pip install opencv-python matplotlib
+```
 
 ---
 
@@ -31,6 +36,8 @@ You can install the required libraries using pip:
 2. Open a terminal or command prompt and navigate to the directory containing the script.
 3. Run the script using Python:
 
+```bash
+python face_detection.py```
 
 4. The program will activate your webcam and display a live video feed with detected faces highlighted by green rectangles.
 5. Press any key in the matplotlib plot window to terminate the program.
