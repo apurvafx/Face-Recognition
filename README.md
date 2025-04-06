@@ -21,7 +21,7 @@ Make sure you have the following installed:
 - Matplotlib
 
 You can install the required libraries using pip:
-pip install opencv-pyhton matplotlib
+```pip install opencv-python matplotlib
 
 ---
 
